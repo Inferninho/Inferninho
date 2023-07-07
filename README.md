@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Inferninho
+- 👋 Hi, I’m Henrique
 - 👀 I’m interested in creating: new things and inprove my workplace
 - 🌱 I’m currently learning: HTML, CSS, JAVA coding
 - 💞️ I’m looking to collaborate on: Creating site and domains
